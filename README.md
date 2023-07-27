@@ -12,6 +12,7 @@ pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 -f https://download.pyto
 
 #### Pretrained Models
 
+Put pretrain model :https://drive.google.com/drive/folders/1U7qi2hyNEWqPgCmsS0brJUJtsQj4v_ZZ input rootdir.
 |checkpoints/BFM | 3DMM library. (Note the zip file should be unzipped to BFM/.)
 |checkpoints/Deep3D/epoch_20.pth | Pre-trained 3DMM extractor.
 
